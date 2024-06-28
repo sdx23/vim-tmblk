@@ -1,0 +1,32 @@
+# caption
+some regular text
+
+## subcaption
+some more regular text containing durations like 10m
+and dates like 2024-06-28
+
+2024-06-26
+mon
+  general task formats
+	-09:00 10m collect coffee
+	-12:00 40m lunch task done
+	.12:40 20m foobar rescheduled
+	~13:00 30m unfinished task
+	+14:00 30m revisitable task
+	15:00 10m normal task
+tue
+  variations of time formats
+	12:00 40m lunch
+	12:00 1h lunch
+	12:00 1.5h lunch
+	12:00 1h30m lunch
+	-12:00 0h40m lunch task done
+	-12:00 1.0h lunch task done
+	~13:00 1h30m unfinished task
+	~13:00 1.5h unfinished task
+	+14:00 0h30m revisitable task
+	+14:00 0.5h revisitable task
+wed
+	12:00 40m lunch
+	12:40 20m foobar
+	13:00 30m unfinished task
