@@ -4,7 +4,7 @@ syntax match TbkSubCaption "^##\+\s\+.*"
 syntax match TbkDate "^\d\{4}-\d\{2}-\d\{2\}"
 syntax match TbkWeekday "^\(mon\|tue\|wed\|thu\|fri\|sat\|sun\)"
 "syntax match TbkTaskState "^\s*[-+~]"
-syntax match TbkTime "\d\{2}:\d\{2\}"
+syntax match TbkTime "\d\{1,2}:\d\{2\}"
 syntax match TbkDuration "\v\d*\.?\d+[mh]"
 
 " Link syntax groups to highlight groups
